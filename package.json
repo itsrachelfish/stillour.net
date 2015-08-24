@@ -1,0 +1,26 @@
+{
+  "name": "stillour.net",
+  "version": "1.0.0",
+  "description": "The internet belongs to everyone",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsrachelfish/stillour.net.git"
+  },
+  "keywords": [
+    "internet"
+  ],
+  "author": "Rachel Fish <rachel@wetfish.net> (https://wetfish.net)",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/itsrachelfish/stillour.net/issues"
+  },
+  "homepage": "https://github.com/itsrachelfish/stillour.net#readme",
+  "dependencies": {
+    "wetfish-basic": "^0.7.6",
+    "wetfish-server": "^0.1.1"
+  }
+}

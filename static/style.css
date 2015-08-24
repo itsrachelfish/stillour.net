@@ -1,0 +1,17 @@
+body {
+    overflow: hidden;
+    color: white;
+    background-color: #000;
+}
+
+.star {
+    color: white;
+}
+
+.message {
+    position: fixed;
+    top: 50%;
+    margin: -1em;
+    text-align: center;
+    width: 100%;
+}

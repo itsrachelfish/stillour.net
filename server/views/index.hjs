@@ -1,0 +1,4 @@
+{{> head}}
+    <div class="sky"></div>
+    <div class="message">the internet is still yours</div>
+{{> foot}}
